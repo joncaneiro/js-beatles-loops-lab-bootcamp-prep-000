@@ -35,8 +35,10 @@ function iLoveTheBeatles(number) {
   
   do {
     
-  } while(i < 8  )
+  } while(i < 15)
   i++
+  
+  return newArray
 }
 
 
