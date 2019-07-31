@@ -31,10 +31,10 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(number) {
   
   let newArray = [];
-  var i = 7;
+  var i = 0;
   
   do {
-    newArray.push(i = "I love the Beatles!")
+    newArray.push(`${I love the Beatles![i]}`)
     i++
   } while(i < 15);
   
