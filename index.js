@@ -34,10 +34,9 @@ function iLoveTheBeatles(number) {
   var i = 0;
   
   do {
+    i++
     console.log('I love the Beatles!')
   } while(i < 15);
-  
-  i++
   
   return newArray
 }
