@@ -30,11 +30,12 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   
-  
+  var i = 0
   
   do {
     
-  } while(  )
+  } while(i < 8  )
+  i++
 }
 
 
