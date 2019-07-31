@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   let newFacts = [];
   var i = 0
   
-  while(newFacts < facts.length) {
+  while(i < facts.length) {
     newFacts.push(`${facts[i]} + !!!`)
   }
   return newFacts
