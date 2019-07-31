@@ -12,6 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 
 
+
 function johnLennonFacts(facts) {
   
   let newFacts = [];
@@ -23,3 +24,27 @@ function johnLennonFacts(facts) {
   }
   return newFacts
 }
+
+
+
+
+function iLoveTheBeatles(number) {
+  
+  
+  
+  do {
+    
+  } while(  )
+}
+
+
+
+
+
+
+
+
+
+
+
+
