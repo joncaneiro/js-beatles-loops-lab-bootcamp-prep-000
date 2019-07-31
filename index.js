@@ -34,9 +34,7 @@ function iLoveTheBeatles(number) {
   var i = 0;
   
   do {
-    
-    newArray.push('I love the Beatles!')
-    
+    console.log('I love the Beatles!')
   } while(i < 15);
   
   i++
